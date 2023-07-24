@@ -1,6 +1,3 @@
-
-Bio for GitHub:
-
 👋 Hi there! I'm Marco Antonio Parra Fernández, a data engineer and full-stack developer based in Chillán, Chile. 🇨🇱
 
 🔭 Currently, I'm working on freelance projects involving data engineering and web development, bringing my Python, Django, Ruby on Rails, and React expertise to create innovative solutions.
@@ -19,8 +16,3 @@ Bio for GitHub:
 
 Looking forward to making a positive impact through technology! 😄👨‍💻
 
-
-
-
-
-Regenerate response
