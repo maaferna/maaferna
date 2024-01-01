@@ -51,7 +51,7 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&theme=synthwave" alt="MParraF :: Profile Stats" /></p>
+[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true)](https://github.com/maaferna)
 
 <h4 align="center">Comment count :speech_balloon:</h4>
 
@@ -60,8 +60,5 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <hr>
 
-### Github Stats
-
-[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true)](https://github.com/maaferna)
 
 ⭐️ From [@maaferna](https://github.com/maaferna)
