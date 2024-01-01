@@ -53,8 +53,6 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&theme=synthwave" alt="MParraF :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
 <h4 align="center">Comment count :speech_balloon:</h4>
 
 <!-- Replace `maaferna` with your GitHub username -->
