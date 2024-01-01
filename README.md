@@ -16,3 +16,19 @@
 
 Looking forward to making a positive impact through technology! 😄👨‍💻
 
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://portfolio-mparraf.herokuapp.com/">
+    <img src="https://portfolio-mparraf.herokuapp.com/static/img/favicon.ico" alt="Marco Antonio Parra Mgtr. engineer / Full -Stack DEV Profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/marco-antonio-parra-82999337/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Marco Antonio Parra LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://medium.com/@amaaferna">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Marco Antonio Parra Medium Profile" height="30" width="30">
+  </a>
+
+</p>
