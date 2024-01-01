@@ -58,6 +58,13 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 </div>
 
 
+<a href="https://github.com/maaferna">
+  <img src="https://img.shields.io/github/followers/maaferna">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=maaferna">
+</a>
+
 <hr>
 
 
