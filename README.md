@@ -51,7 +51,11 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<div align="center">
+
 [![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true)](https://github.com/maaferna)
+
+</div>
 
 <h4 align="center">Comment count :speech_balloon:</h4>
 
