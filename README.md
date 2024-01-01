@@ -53,7 +53,7 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <div align="center">
 
-[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true &include_all_commits=true)](https://github.com/maaferna)
+[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/maaferna)
 
 </div>
 
