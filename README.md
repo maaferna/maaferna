@@ -31,4 +31,26 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Marco Antonio Parra Medium Profile" height="30" width="30">
   </a>
 
+  <a href="https://stackoverflow.com/users/22063797/marco-antonio-parra-fern%c3%a1ndez">
+   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Marco Antonio Parra Stack Overflow Profile" height="30" width="30">
+ </a>
+
 </p>
+
+<hr>
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{maaferna}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaferna&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
