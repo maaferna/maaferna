@@ -59,3 +59,8 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <!-- Replace `maaferna` with your GitHub username -->
 <img src="https://img.shields.io/github/issues/detail/comments/maaferna/maaferna/1.svg" alt="Comments" />
+
+<h4 align="center">Comment count :speech_balloon:</h4>
+
+<!-- Replace `maaferna` with your GitHub username -->
+<img src="https://img.shields.io/github/issues/detail/comments/maaferna/maaferna/1.svg" alt="Comments" />
