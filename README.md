@@ -43,7 +43,7 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MarcoAntonioParra}/count.svg" alt="MParraF :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{maaferna}/count.svg" alt="MParraF :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -56,4 +56,4 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 <h4 align="center">Comment count :speech_balloon:</h4>
 
 <!-- Replace `maaferna` with your GitHub username -->
-<img src="https://img.shields.io/github/issues/detail/comments/MarcoAntonioParra/MarcoAntonioParra/1.svg" alt="Comments" />
+<img src="https://img.shields.io/github/issues/detail/comments/maaferna/maaferna/1.svg" alt="Comments" />
