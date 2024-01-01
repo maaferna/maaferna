@@ -55,8 +55,13 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <h4 align="center">Comment count :speech_balloon:</h4>
 
-<!-- Replace `maaferna` with your GitHub username -->
 <img src="https://img.shields.io/github/issues/detail/comments/maaferna/maaferna/1.svg" alt="Comments" />
 
+
+<hr>
+
+### Github Stats
+
+[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true)](https://github.com/maaferna)
 
 ⭐️ From [@maaferna](https://github.com/maaferna)
