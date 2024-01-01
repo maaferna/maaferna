@@ -57,3 +57,6 @@ Looking forward to making a positive impact through technology! 😄👨‍💻
 
 <!-- Replace `maaferna` with your GitHub username -->
 <img src="https://img.shields.io/github/issues/detail/comments/maaferna/maaferna/1.svg" alt="Comments" />
+
+
+⭐️ From [@maaferna](https://github.com/maaferna)
