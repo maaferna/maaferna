@@ -1,20 +1,116 @@
-👋 Hi there! I'm Marco Antonio Parra Fernández, a data engineer and full-stack developer based in Chillán, Chile. 🇨🇱
+# 👋 Hi there! I'm Marco Antonio Parra Fernández
 
-🔭 Currently, I'm working on freelance projects involving data engineering and web development, bringing my Python, Django, Ruby on Rails, and React expertise to create innovative solutions.
+AI / Backend Engineer focused on building scalable systems using Python, cloud technologies, and modern AI architectures.
 
-🎓 I hold a Master's degree in industrial engineering from the University del Bío-Bío, specializing in operations research and optimization models. My passion for technology and its applications has led me to pursue various professional certifications, including Python for Everybody, Applied Data Science with Python, Google IT Automation with Python, PostgreSQL for Everybody, and more.
+Based in Chillán, Chile 🇨🇱
 
-🛠️ As a data enthusiast, I have experience in data wrangling, machine learning, data visualization, and statistical analysis. My Python library proficiency includes Numpy, Pandas, Scikit-learn, Matplotlib, and more.
+---
 
-💼 In my previous work experiences, I was involved in diverse projects ranging from technology transfer initiatives to optimizing production processes. This has given me a solid foundation in project management, process optimization, and team coordination.
+## 🚀 About Me
 
-🚀 I'm driven by a passion for web development and data analysis, constantly striving to grow and learn in the ever-evolving field of information technology. I believe in the power of teamwork and continuous learning to achieve remarkable results.
+I'm an engineer with a Master's degree in Industrial Engineering and hands-on experience designing and deploying real-world software systems that integrate backend services, data processing, and artificial intelligence.
 
-💬 I'm fluent in Spanish (native) and have professional proficiency in English (B2). I value effective communication and collaboration in any project I undertake.
+Over the past few years, I have transitioned into AI and backend engineering, working on projects involving:
 
-🌱 I'm committed to contributing to open-source projects and sharing my knowledge with the developer community. Let's connect and collaborate on exciting projects together! Feel free to explore my portfolio at portfolio-mparraf.herokuapp.com and connect on LinkedIn: maaferna.
+- Generative AI and LLM-based systems
+- Retrieval-Augmented Generation (RAG)
+- REST APIs and microservices
+- Containerized applications with Docker
+- Data pipelines and automation
+- Backend architecture for production environments
 
-Looking forward to making a positive impact through technology! 😄👨‍💻
+I enjoy building systems that solve real operational problems using software and data.
+
+---
+
+## 🛠️ Technical Focus
+
+**Backend & APIs**
+
+- Python
+- FastAPI
+- Django
+- REST APIs
+- Microservices
+
+**AI & Data Systems**
+
+- LLMs
+- RAG
+- Machine Learning
+- Computer Vision
+- PyTorch
+- Data pipelines
+
+**Infrastructure**
+
+- Docker
+- Linux
+- Containerization
+- Observability
+- Cloud services
+
+---
+
+## 💼 Recent Work
+
+I have worked on projects involving:
+
+- Development of AI pipelines using LLMs and vector databases
+- Backend services for automated information processing
+- Deployment of containerized applications for AI systems
+- Design of modular architectures for scalable services
+- Integration of APIs and automation workflows
+
+My focus is on building reliable backend systems that support real-world AI applications.
+
+---
+
+## 📚 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Generative AI Applications Specialist
+- LLM Optimization & Evaluation
+- Autonomous AI Agent Systems and Orchestration
+
+---
+
+## 🌱 Currently Learning
+
+- AI system design
+- LLM engineering
+- Cloud-native architectures
+- Observability and production systems
+
+---
+
+## 🔗 Links
+
+Portfolio:  
+https://portfolio-mparraf.herokuapp.com
+
+LinkedIn:  
+https://www.linkedin.com/in/marco-antonio-parra-82999337
+
+---
+
+## 💬 Languages
+
+Spanish — Native  
+English — Professional (B2)
+
+---
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- AI / GenAI projects
+- Backend systems
+- Automation tools
+- Production-ready services
+- Open-source software
 
 <h2 align="center">You can reach me at :alien:</h2>
 
