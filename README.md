@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Marco Antonio Parra Fernández
 
-AI / Backend Engineer focused on building scalable systems using Python, cloud technologies, and modern AI architectures.
+AI / Backend Engineer focused on building scalable systems using Python, containerized services, and modern AI architectures.
 
 Based in Chillán, Chile 🇨🇱
 
@@ -10,45 +10,43 @@ Based in Chillán, Chile 🇨🇱
 
 I'm an engineer with a Master's degree in Industrial Engineering and hands-on experience designing and deploying real-world software systems that integrate backend services, data processing, and artificial intelligence.
 
-Over the past few years, I have transitioned into AI and backend engineering, working on projects involving:
+Over the past few years, I have transitioned into AI and backend engineering, working on projects involving machine learning, computer vision, and generative AI systems deployed in production-like environments.
 
-- Generative AI and LLM-based systems
-- Retrieval-Augmented Generation (RAG)
-- REST APIs and microservices
-- Containerized applications with Docker
-- Data pipelines and automation
-- Backend architecture for production environments
-
-I enjoy building systems that solve real operational problems using software and data.
+My work focuses on building reliable systems that combine software engineering, automation, and infrastructure to support data-driven decision-making and operational efficiency.
 
 ---
 
 ## 🛠️ Technical Focus
 
-**Backend & APIs**
+### Backend & APIs
 
 - Python
 - FastAPI
 - Django
 - REST APIs
 - Microservices
+- API integration
+- Data processing pipelines
 
-**AI & Data Systems**
+### AI & Machine Learning Systems
 
-- LLMs
-- RAG
-- Machine Learning
-- Computer Vision
+- Generative AI and LLM-based systems
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning workflows
+- Computer Vision models (YOLO)
+- Model inference pipelines
 - PyTorch
-- Data pipelines
+- Dataset management and model evaluation
 
-**Infrastructure**
+### Infrastructure & Deployment
 
-- Docker
-- Linux
-- Containerization
-- Observability
-- Cloud services
+- Linux server environments
+- Docker containerization
+- GPU-based inference (NVIDIA CUDA)
+- NVIDIA-Docker runtime
+- Service deployment and monitoring
+- Resource management on production systems
+- Observability and system reliability
 
 ---
 
@@ -57,12 +55,13 @@ I enjoy building systems that solve real operational problems using software and
 I have worked on projects involving:
 
 - Development of AI pipelines using LLMs and vector databases
-- Backend services for automated information processing
-- Deployment of containerized applications for AI systems
-- Design of modular architectures for scalable services
-- Integration of APIs and automation workflows
+- Deployment of computer vision models (YOLO) on GPU-enabled environments
+- Implementation of multi-GPU inference pipelines using CUDA and Docker
+- Design of backend services for automated information processing
+- Containerized deployment of AI services in Linux environments
+- Integration of APIs and automation workflows for operational systems
 
-My focus is on building reliable backend systems that support real-world AI applications.
+My focus is on building production-ready backend systems that support real-world AI applications.
 
 ---
 
@@ -78,20 +77,23 @@ My focus is on building reliable backend systems that support real-world AI appl
 
 ## 🌱 Currently Learning
 
-- AI system design
-- LLM engineering
-- Cloud-native architectures
-- Observability and production systems
+- AI system design and architecture
+- LLM engineering and evaluation
+- Cloud-native application deployment
+- Observability and monitoring for distributed systems
 
 ---
 
 ## 🔗 Links
 
 Portfolio:  
-https://portfolio-mparraf.herokuapp.com
+https://portfolio-mparraf.herokuapp.com  
 
 LinkedIn:  
-https://www.linkedin.com/in/marco-antonio-parra-82999337
+https://www.linkedin.com/in/marco-antonio-parra-82999337  
+
+GitHub:  
+https://github.com/maaferna  
 
 ---
 
@@ -104,13 +106,13 @@ English — Professional (B2)
 
 ## 🤝 Collaboration
 
-I'm open to collaborating on:
+I'm open to collaborating on projects related to:
 
-- AI / GenAI projects
-- Backend systems
-- Automation tools
-- Production-ready services
-- Open-source software
+- Artificial Intelligence and GenAI systems  
+- Backend and API development  
+- Automation and data processing  
+- AI deployment and infrastructure  
+- Production-ready software systems  
 
 <h2 align="center">You can reach me at :alien:</h2>
 
