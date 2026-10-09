@@ -1,166 +1,40 @@
-# 👋 Hi there! I'm Marco Antonio Parra Fernández
+# Marco Antonio Parra Fernández
 
-AI / Backend Engineer focused on building scalable systems using Python, containerized services, and modern AI architectures.
+**MSc in Industrial Engineering · Applied AI, computer vision & Python backend for industrial operations**
+Chillán, Chile · Spanish (native) · English (B2)
 
-Based in Chillán, Chile 🇨🇱
+I led 50-person shifts in plant operations, and today I build the systems that optimize them.
 
----
+Nearly 15 years of career: plant operations from 2011 to 2016 (production planning and process control at
+Arauco and CMPC), industrial technology extension from 2017 to 2019, a deliberate career transition from 2020
+to 2023 (MSc thesis in metaheuristic optimization plus training in data, backend and machine learning), and
+since 2024 software and AI systems for real operations. I work at that intersection: I understand the
+physical process and I also build the solution.
 
-## 🚀 About Me
+## Start here
 
-I'm an engineer with a Master's degree in Industrial Engineering and hands-on experience designing and deploying real-world software systems that integrate backend services, data processing, and artificial intelligence.
+Most of my recent work was done for employers and clients, so its source code is not public. These
+repositories document the architecture, methods and results without exposing code or client data.
 
-Over the past few years, I have transitioned into AI and backend engineering, working on projects involving machine learning, computer vision, and generative AI systems deployed in production-like environments.
+| Repository | What it shows |
+|---|---|
+| [yolo-training-inference-orchestration-architecture](https://github.com/maaferna/yolo-training-inference-orchestration-architecture) | Architecture of a YOLO training and inference platform: Django + FastAPI orchestration, GPU-backed inference services, experiment tracking |
+| [agridrone-vision-evaluation-pipeline](https://github.com/maaferna/agridrone-vision-evaluation-pipeline) | Precision-agriculture object detection on drone imagery: YOLO + SAHI, geospatial export, COCO evaluation |
+| [production-scheduling-system](https://github.com/maaferna/production-scheduling-system) | Production scheduling and resource allocation over legacy data integration |
+| [metaheuristic-scheduling-case-study](https://github.com/maaferna/metaheuristic-scheduling-case-study) | MSc thesis: hybrid GRASP + VNS for job shop scheduling, 20–42% lower total tardiness than the EDD rule on 9 Taillard instances |
+| [dimensional-control-sawmill-case-study](https://github.com/maaferna/dimensional-control-sawmill-case-study) | Dimensional control of sawn lumber for SME sawmills: measurement method, spreadsheet prototype and low-cost Bluetooth capture system |
+| [EspecialidadMachineLearningTD](https://github.com/maaferna/EspecialidadMachineLearningTD) | Machine Learning specialization (Talento Digital, 2025): regression, classification, clustering, NLP, interpretability and deployment, with code |
 
-My work focuses on building reliable systems that combine software engineering, automation, and infrastructure to support data-driven decision-making and operational efficiency.
+## Tools
 
----
+Python · FastAPI · Django · PostgreSQL · Docker · PyTorch · YOLO · SAHI · MLflow · AWS · CI/CD
+Generative AI at prototype stage: RAG over self-hosted open-weight models (vLLM, ChromaDB).
 
-## 🛠️ Technical Focus
+## Certifications
 
-### Backend & APIs
+AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner · Machine Learning
+Specialization (Talento Digital) · all verifiable on [Credly](https://www.credly.com/users/marco-antonio-parra.78c6b4be)
 
-- Python
-- FastAPI
-- Django
-- REST APIs
-- Microservices
-- API integration
-- Data processing pipelines
+## Links
 
-### AI & Machine Learning Systems
-
-- Generative AI and LLM-based systems
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning workflows
-- Computer Vision models (YOLO)
-- Model inference pipelines
-- PyTorch
-- Dataset management and model evaluation
-
-### Infrastructure & Deployment
-
-- Linux server environments
-- Docker containerization
-- GPU-based inference (NVIDIA CUDA)
-- NVIDIA-Docker runtime
-- Service deployment and monitoring
-- Resource management on production systems
-- Observability and system reliability
-
----
-
-## 💼 Recent Work
-
-I have worked on projects involving:
-
-- Development of AI pipelines using LLMs and vector databases
-- Deployment of computer vision models (YOLO) on GPU-enabled environments
-- Implementation of multi-GPU inference pipelines using CUDA and Docker
-- Design of backend services for automated information processing
-- Containerized deployment of AI services in Linux environments
-- Integration of APIs and automation workflows for operational systems
-
-My focus is on building production-ready backend systems that support real-world AI applications.
-
----
-
-## 📚 Certifications
-
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
-- Generative AI Applications Specialist
-- LLM Optimization & Evaluation
-- Autonomous AI Agent Systems and Orchestration
-
----
-
-## 🌱 Currently Learning
-
-- AI system design and architecture
-- LLM engineering and evaluation
-- Cloud-native application deployment
-- Observability and monitoring for distributed systems
-
----
-
-## 🔗 Links
-
-Portfolio:  
-https://portfolio-mparraf.herokuapp.com  
-
-LinkedIn:  
-https://www.linkedin.com/in/marco-antonio-parra-82999337  
-
-GitHub:  
-https://github.com/maaferna  
-
----
-
-## 💬 Languages
-
-Spanish — Native  
-English — Professional (B2)
-
----
-
-## 🤝 Collaboration
-
-I'm open to collaborating on projects related to:
-
-- Artificial Intelligence and GenAI systems  
-- Backend and API development  
-- Automation and data processing  
-- AI deployment and infrastructure  
-- Production-ready software systems  
-
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-  <a href="https://portfolio-mparraf.herokuapp.com/">
-    <img src="https://portfolio-mparraf.herokuapp.com/static/img/favicon.ico" alt="Marco Antonio Parra Mgtr. engineer / Full -Stack DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/marco-antonio-parra-82999337/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Marco Antonio Parra LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://medium.com/@amaaferna">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Marco Antonio Parra Medium Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/22063797/marco-antonio-parra-fern%c3%a1ndez">
-   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Marco Antonio Parra Stack Overflow Profile" height="30" width="30">
- </a>
-
-</p>
-
-<hr>
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{maaferna}/count.svg" alt="MParraF :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaferna&langs_count=10&theme=tokyonight&layout=compact" alt="MParraF :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<div align="center">
-
-[![Marco Antonio Parra F GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaferna&show_icons=true&count_private=true)](https://github.com/maaferna)
-
-</div>
-
-
-<a href="https://github.com/maaferna">
-  <img src="https://img.shields.io/github/followers/maaferna">
-</a>
-
-<hr>
-
-
-⭐️ From [@maaferna](https://github.com/maaferna)
+[Portfolio](https://portfolio-mparraf.herokuapp.com) · [LinkedIn](https://www.linkedin.com/in/marco-antonio-parra-82999337)
